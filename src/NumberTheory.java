@@ -80,4 +80,3 @@ public class NumberTheory {
 		return (res[0]+m)%m;
 	}
 }
-
